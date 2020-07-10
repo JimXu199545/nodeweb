@@ -1,0 +1,14 @@
+{
+    "name": "app-service-hello-world",
+    "description": "Simple Hello World Node.js sample for Azure App Service",
+    "version": "0.0.1",
+    "private": true,
+    "scripts": {
+        "start": "npm install & node index.js"
+    },
+    "dependencies": {
+        "express": "^4.17.1",
+        "msql":"^6.2.0",
+        "request": "^2.88.2"
+    }
+}
