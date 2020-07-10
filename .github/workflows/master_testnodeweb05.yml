@@ -32,4 +32,4 @@ jobs:
         app-name: 'testnodeweb05'
         slot-name: 'production'
         publish-profile: ${{ secrets.AzureAppService_PublishProfile_3488b1e21a7a42e7ba95d2549a04b008 }}
-        package: .
+        
